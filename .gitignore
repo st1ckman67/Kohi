@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 bin/
 obj/
@@ -5,3 +6,6 @@ obj/
 docs/
 
 engine/src/version.h
+=======
+bin/**
+>>>>>>> 776efc25e065ab18fa90214dd65b680642b987dc
