@@ -1,5 +1,5 @@
     {
-        "C_Cpp.errorSquiggles": "disabled",
+        "C_Cpp.errorSquiggles": "enabled",
         "workbench.colorTheme": "Shades of Purple (Super Dark)",
         "xmlTools.enforcePrettySelfClosingTagOnFormat": true,
         "editor.minimap.enabled": false,
